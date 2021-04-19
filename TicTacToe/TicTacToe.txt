@@ -1,0 +1,48 @@
+Starting new game...
+Turn of player: X
+|-|-|-|
+|-|-|X|
+|-|-|-|
+
+Turn of player: O
+|-|-|-|
+|-|O|X|
+|-|-|-|
+
+Turn of player: X
+|-|X|-|
+|-|O|X|
+|-|-|-|
+
+Undoing move of player: X
+|-|-|-|
+|-|O|X|
+|-|-|-|
+
+Turn of player: X
+|-|-|X|
+|-|O|X|
+|-|-|-|
+
+Turn of player: O
+|-|-|X|
+|O|O|X|
+|-|-|-|
+
+Undoing move of player: O
+|-|-|X|
+|-|O|X|
+|-|-|-|
+
+Turn of player: O
+|-|-|X|
+|O|O|X|
+|-|-|-|
+
+Turn of player: X
+|-|-|X|
+|O|O|X|
+|-|-|X|
+
+Player X won!
+Game ended.
