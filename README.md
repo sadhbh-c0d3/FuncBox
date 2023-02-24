@@ -2,7 +2,7 @@
 
 Learning Scala and OCaml by implementing simple games.
 
-## Bulding and Running
+## Building and Running
 
 Create and run Docker container with Scala and OCaml installed:
 ```
